@@ -7,7 +7,7 @@ public class work2 {
 		System.out.println("my self kartik");
 		System.out.println("I live in amravati");
 		System.out.println("I am working in ddt company");
-		System.out.println("add23");
+		System.out.println(" ");
 	}
 
 }
