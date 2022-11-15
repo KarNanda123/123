@@ -2,10 +2,9 @@ package fsdf;
 
 public class xvdfgd 
 {
-	
-		
-   System.out.println("something");
-   
-
+	public static void main (String[]args)
+{		
+              System.out.println("something");
+}
    
 }
