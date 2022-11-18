@@ -25,7 +25,7 @@ public class AmazonLogin extends BaseClass {
 	LoginPage fbLogin;
 	UtilityClass utility;
 	
-	
+	System.out.println("kartik");
 	@BeforeClass
 	public void beforeClass() throws InterruptedException
 	{
